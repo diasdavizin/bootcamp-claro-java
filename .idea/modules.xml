@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/aprendendo-a-sintaxe-java/aprendendo-a-sintaxe-java.iml" filepath="$PROJECT_DIR$/aprendendo-a-sintaxe-java/aprendendo-a-sintaxe-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/bootcamp-santander-java.iml" filepath="$PROJECT_DIR$/.idea/bootcamp-santander-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafios/desafios.iml" filepath="$PROJECT_DIR$/desafios/desafios.iml" />
     </modules>
   </component>
 </project>
