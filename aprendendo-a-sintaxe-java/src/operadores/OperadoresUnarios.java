@@ -1,16 +1,16 @@
 package operadores;
 
 public class OperadoresUnarios {
-    public static void main(String [] args ) {
+    public static void main(String[] args) {
 
         // Exemples of Operators Unary in Java
 
 
         // This exemple show how to make one variable be negative with unary.
 
-         int numero = 5;
+        int numero = 5;
 
-        numero = - numero;
+        numero = -numero;
 
         System.out.println(numero);
 
@@ -19,6 +19,8 @@ public class OperadoresUnarios {
         numero = numero * -1;
 
         System.out.println(numero);
+    }
+}
 
         // This exemple show how to inclemente one number.
 
@@ -47,3 +49,4 @@ public class OperadoresUnarios {
 
     }
 }
+*/
